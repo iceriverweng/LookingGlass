@@ -1,7 +1,7 @@
 # LookingGlass
 
-## Overview
-
+## 概述
+LookingGlass是一个对使用者友好的基于php构建的网络测试系统，它允许公众用户通过公用网络(比如web浏览器)来执行网络的指令。
 LookingGlass is a user-friendly PHP based looking glass that allows the public (via a web interface) to execute network
 commands on behalf of your server.
 
